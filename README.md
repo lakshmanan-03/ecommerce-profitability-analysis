@@ -62,10 +62,12 @@ Built an interactive 2-page Power BI dashboard including:
 ## 📷 Dashboard Preview
 
 ### Overview Page
+![Overview Dashboard](Images/overview-page.png)
 
 
 ### Profitability Analysis Page
 
+![Profitability Analysis Dashboard](Images/profitability-analysis-page.png)
 
 ---
 
